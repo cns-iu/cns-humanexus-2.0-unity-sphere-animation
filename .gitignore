@@ -75,6 +75,6 @@ crashlytics-build.properties
 
 *.meta
 
-/cns-humanexus-2.0-unity/Assets/TempTest
-/cns-humanexus-2.0-unity/Assets/TempTextures
-/cns-humanexus-2.0-unity/Assets/TempMaterials
+# /cns-humanexus-2.0-unity/Assets/TempTest
+# /cns-humanexus-2.0-unity/Assets/TempTextures
+# /cns-humanexus-2.0-unity/Assets/TempMaterials
