@@ -73,7 +73,7 @@ crashlytics-build.properties
 
 # TempTextures folder
 
-*.meta
+# *.meta
 
 # /cns-humanexus-2.0-unity/Assets/TempTest
 # /cns-humanexus-2.0-unity/Assets/TempTextures
