@@ -29,7 +29,7 @@ These panels are referred to as "clones".
 
 The positions of the clones are extracted from a 3D object called an [icosphere](https://en.wikipedia.org/wiki/Geodesic_polyhedron).
 
-Theis sphere of clones is referred to as the "cloud".
+This sphere of clones is referred to as the "cloud".
 
 ---
 ## 2. Operations in Unity Play Mode
